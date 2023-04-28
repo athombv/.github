@@ -1,0 +1,4 @@
+{
+  "name": "Test",
+  "description": "Runs 'npm run test' in your repository."
+}

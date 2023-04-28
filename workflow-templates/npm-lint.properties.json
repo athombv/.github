@@ -1,0 +1,4 @@
+{
+  "name": "Lint",
+  "description": "Runs 'npm run lint' in your repository."
+}
